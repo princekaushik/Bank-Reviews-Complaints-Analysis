@@ -38,5 +38,5 @@ The data is detailed dump of customer reviews/ complaints (~500) of different se
 * Character level tf-idf
 * Topic Modeling(LDA)
 ## Machine Learning model
-* NAive Bayes
+* Naive Bayes
 * Predicting Star Rating
